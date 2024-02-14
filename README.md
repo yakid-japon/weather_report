@@ -1,7 +1,7 @@
 # weather_report
 
 
-voici le lien du tp :  (https://dribbble.com/shots/16045077-Weather-App-Concept-Design)
+Pour accéder au tp, il vous suffit de copier le lien et de l'ouvrir dans un autre onglet.:  (https://dribbble.com/shots/16045077-Weather-App-Concept-Design)
 
 
-concernant l'exercice jai puis realisé les deux markets pour aller sur la deuxieme page utilisateur clique sur la partie  Next week >
+En ce qui concerne l'exercice, j'ai essayé de réaliser les deux market pour accéder à la deuxième page des utilisateur qui clique sur la partie Next week >
